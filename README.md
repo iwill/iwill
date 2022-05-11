@@ -12,6 +12,11 @@
 ### StackOverflow Activities
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Mr. Míng for Is there a &quot;n/a&quot; symbol in unicode?](https://stackoverflow.com/questions/21894410/is-there-a-n-a-symbol-in-unicode/71491517#71491517)
+- [Answer by Mr. Míng for What are cross-browser and cross-OS safe keyboard shortcuts usable for web application?](https://stackoverflow.com/questions/3329420/what-are-cross-browser-and-cross-os-safe-keyboard-shortcuts-usable-for-web-appli/68768625#68768625)
+- [Answer by Mr. Míng for clipsToBounds on UILabel not working](https://stackoverflow.com/questions/50078463/clipstobounds-on-uilabel-not-working/68076341#68076341)
+- [Answer by Mr. Míng for How to tell when UITableView has completed ReloadData?](https://stackoverflow.com/questions/16071503/how-to-tell-when-uitableview-has-completed-reloaddata/68031438#68031438)
+- [Answer by Mr. Míng for Compare version numbers in Objective-C](https://stackoverflow.com/questions/1978456/compare-version-numbers-in-objective-c/67604005#67604005)
 <!-- STACKOVERFLOW:END -->
 
 ### Blog Posts
