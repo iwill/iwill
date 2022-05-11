@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋🏿, I am Mr. Míng (iwill)
+
+- 🔭 I’m currently working on BTC - [BaijiaYun](https://www.baijiayun.com/) Technical Committee
+- 🌱 I’m currently learning Swift
+- 💬 Ask me about ObjC, Swift, JavaScript and Keyboard Shortcuts in macOS
+- ⚡ Fun fact: I'm not funny
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=iwill&column=9&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
+
+![Profile views](https://komarev.com/ghpvc/?username=iwill)
 
 <!--
 **iwill/iwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
