@@ -11,8 +11,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "4"
+          max_post_count: "5"
           feed_list: "https://iwill.im/atom.xml"
