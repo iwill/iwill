@@ -7,9 +7,9 @@
 
 <p><!-- add `p` for margin-bottom -->
   <a href="#"><!-- add `a` for inline-block -->
-    <img alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwill&langs_count=10&layout=compact&theme=swift" valign="top" hspace="5px" vspace="5px" height="180px" /><!-- remove space before `/a` for link style --></a>
+    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=iwill&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true&theme=radical" valign="top" hspace="5px" vspace="5px" height="180px" /><!-- remove space before `/a` for link style --></a>
   <a href="#">
-    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=iwill&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true&theme=swift" valign="top" hspace="5px" vspace="5px" height="180px" /></a>
+    <img alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwill&langs_count=10&layout=compact&theme=radical" valign="top" hspace="5px" vspace="5px" height="180px" /></a>
 </p>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iwill&column=9&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
@@ -17,6 +17,27 @@
 ![GitHub Followers](https://img.shields.io/github/followers/iwill?label=Follow&style=social)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iwill)
+
+### Languages and Tools
+
+<div>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" alt="ObjC" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40" />
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome" width="40" height="40" />
+</div>
 
 ### StackOverflow Activities
 
