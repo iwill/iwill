@@ -7,9 +7,9 @@
 
 <p><!-- add `p` for margin-bottom -->
   <a href="#"><!-- add `a` for inline-block -->
-    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=iwill&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true&theme=radical" valign="top" hspace="5px" vspace="5px" height="180px" /><!-- remove space before `/a` for link style --></a>
+    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=iwill&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true&theme=swift" valign="top" hspace="5px" vspace="5px" height="180px" /><!-- remove space before `/a` for link style --></a>
   <a href="#">
-    <img alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwill&langs_count=10&layout=compact&theme=radical" valign="top" hspace="5px" vspace="5px" height="180px" /></a>
+    <img alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwill&langs_count=10&layout=compact&theme=swift" valign="top" hspace="5px" vspace="5px" height="180px" /></a>
 </p>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iwill&column=9&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
