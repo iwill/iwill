@@ -52,11 +52,11 @@
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [版本号比较](https://iwill.im/2022/06/30/semver-comparison/)
 - [汉语拼音的拆分](https://iwill.im/2022/04/07/pinyin/)
 - [JavaScript 定义 class 的方式](https://iwill.im/2022/04/07/class-js/)
 - [升级 Hexo](https://iwill.im/2022/02/09/updating-hexo/)
 - [Hello World](https://iwill.im/2015/08/28/hello-world/)
-- [使用 Hexo 搭建 GitHub Pages](https://iwill.im/2014/04/20/blogging-with-hexo/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
