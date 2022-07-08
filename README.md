@@ -52,7 +52,7 @@
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ScriptCalculator](https://iwill.im/2022/07/08/script-calculator/)
+- [ScriptCalculator - 不只是程序员的计算器](https://iwill.im/2022/07/08/script-calculator/)
 - [JavaScript 定义 class 的方式](https://iwill.im/2022/04/07/class-js/)
 - [升级 Hexo](https://iwill.im/2022/02/09/updating-hexo/)
 - [Hello World](https://iwill.im/2015/08/28/hello-world/)
