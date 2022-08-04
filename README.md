@@ -1,9 +1,9 @@
 ### Hi 👋🏿, I am Mr. Míng (iwill), an iOS Developer
 
-- 🔭 I’m currently working on BTC - [BaijiaYun](https://www.baijiayun.com/) Technical Committee
-- 🌱 I’m currently learning Swift
-- 💬 Ask me about ObjC, Swift, JavaScript and Keyboard Shortcuts in macOS
-- ⚡ Fun fact: I'm not funny
+- 🔭 I’m currently working on BTC - [BaijiaYun](https://www.baijiayun.com/) Technical Committee.
+- 🌱 I’m currently learning Swift.
+- 💬 Ask me about Swift, ObjC, JavaScript and Keyboard Shortcuts in macOS.
+- ⚡ Fun fact: My soul is funny, but not I.
 
 <p><!-- add `p` for margin-bottom -->
   <a href="#"><!-- add `a` for inline-block -->
@@ -32,11 +32,11 @@
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome" width="40" height="40" />
 </div>
 
 ### StackOverflow Activities
