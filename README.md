@@ -42,7 +42,7 @@
 ### StackOverflow Activities
 
 <!-- STACKOVERFLOW:START -->
-- [Where to put the opening brace of class in OTBS style?](https://stackoverflow.com/questions/73333791/where-to-put-the-opening-brace-of-class-in-otbs-style)
+- [Where to put the opening brace of class in 1TBS style?](https://stackoverflow.com/questions/73333791/where-to-put-the-opening-brace-of-class-in-1tbs-style)
 - [Answer by Mr. Míng for How to compare software version number using js? &lpar;only number&rpar;](https://stackoverflow.com/questions/6832596/how-to-compare-software-version-number-using-js-only-number/72275309#72275309)
 - [Answer by Mr. Míng for Is there a &quot;n/a&quot; symbol in unicode?](https://stackoverflow.com/questions/21894410/is-there-a-n-a-symbol-in-unicode/71491517#71491517)
 - [Answer by Mr. Míng for What are cross-browser and cross-OS safe keyboard shortcuts usable for web application?](https://stackoverflow.com/questions/3329420/what-are-cross-browser-and-cross-os-safe-keyboard-shortcuts-usable-for-web-appli/68768625#68768625)
