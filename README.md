@@ -1,4 +1,4 @@
-### Hi 👋🏿, I am Mr. Míng (iwill), an iOS Developer
+### Hi 👋🏿, I am Mr. Míng (iwill), an iOS & FE Developer
 
 - 🔭 I’m currently working on BTC - [BaijiaYun](https://www.baijiayun.com/) Technical Committee.
 - 🌱 I’m currently learning Swift.
