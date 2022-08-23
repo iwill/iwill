@@ -14,9 +14,10 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iwill&column=9&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
 
-![GitHub Followers](https://img.shields.io/github/followers/iwill?label=Follow&style=social)
-
-![Profile Views](https://komarev.com/ghpvc/?username=iwill)
+<div>
+  <img src="https://img.shields.io/github/followers/iwill?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=iwill" alt="Profile Views" />
+</div>
 
 ### Languages and Tools
 
