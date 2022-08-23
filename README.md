@@ -54,7 +54,8 @@
 
 ### StackOverflow Activities
 
-<a href="https://stackexchange.com/users/206938/mr-ming"><img src="https://stackexchange.com/users/flair/206938.png" width="208" height="58" alt="profile for Mr. Ming on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Mr. Ming on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
+<a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!-- STACKOVERFLOW:START -->
 - [Where to put the opening brace of class in 1TBS style?](https://stackoverflow.com/questions/73442910/where-to-put-the-opening-brace-of-class-in-1tbs-style)
