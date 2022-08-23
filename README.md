@@ -54,6 +54,8 @@
 
 ### StackOverflow Activities
 
+<a href="https://stackexchange.com/users/206938/mr-ming"><img src="https://stackexchange.com/users/flair/206938.png" width="208" height="58" alt="profile for Mr. Ming on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Mr. Ming on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 <!-- STACKOVERFLOW:START -->
 - [Where to put the opening brace of class in 1TBS style?](https://stackoverflow.com/questions/73442910/where-to-put-the-opening-brace-of-class-in-1tbs-style)
 - [Answer by Mr. Míng for How to compare software version number using js? &lpar;only number&rpar;](https://stackoverflow.com/questions/6832596/how-to-compare-software-version-number-using-js-only-number/72275309#72275309)
