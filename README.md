@@ -55,7 +55,7 @@
 ### StackOverflow Activities
 
 <!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
-<a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean&refresh-cache=true" width="208" height="58" alt="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Mr. Míng for Is it safe to use eval for a client-side JavaScript calculator?](https://stackoverflow.com/questions/72823355/is-it-safe-to-use-eval-for-a-client-side-javascript-calculator/73495791#73495791)
