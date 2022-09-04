@@ -59,7 +59,7 @@
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Mr. Míng for Is it safe to use eval for a client-side JavaScript calculator?](https://stackoverflow.com/questions/72823355/is-it-safe-to-use-eval-for-a-client-side-javascript-calculator/73495791#73495791)
-- [Where to put the opening brace of class in 1TBS style? [closed]](https://stackoverflow.com/questions/73442910/where-to-put-the-opening-brace-of-class-in-1tbs-style)
+- [Where should we put the opening brace of a class in 1TBS style? [closed]](https://stackoverflow.com/questions/73442910/where-should-we-put-the-opening-brace-of-a-class-in-1tbs-style)
 - [Answer by Mr. Míng for How can I compare software version number using JavaScript? &lpar;only numbers&rpar;](https://stackoverflow.com/questions/6832596/how-can-i-compare-software-version-number-using-javascript-only-numbers/72275309#72275309)
 - [Answer by Mr. Míng for Is there a &quot;n/a&quot; symbol in unicode?](https://stackoverflow.com/questions/21894410/is-there-a-n-a-symbol-in-unicode/71491517#71491517)
 - [Answer by Mr. Míng for What are cross-browser and cross-OS safe keyboard shortcuts usable for web application?](https://stackoverflow.com/questions/3329420/what-are-cross-browser-and-cross-os-safe-keyboard-shortcuts-usable-for-web-appli/68768625#68768625)
