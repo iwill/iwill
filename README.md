@@ -40,9 +40,7 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="40" height="40" /></a>
 </div>
 
-### Activities
-
-#### Blog Posts
+### Blog Posts
 
 > i am iwill: [iwill.im](https://iwill.im/)
 
@@ -54,7 +52,7 @@
 - [Hello World](https://iwill.im/2015/08/28/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
-#### Stack Overflow Activities:
+### Stack Overflow Activities
 
 <!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
 <a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Stack Overflow" title="Profile for Mr. M&#237;ng at Stack Overflow"></a>
@@ -67,7 +65,7 @@
 - [Where should we put the opening brace of a class in 1TBS style? [closed]](https://stackoverflow.com/questions/73442910/where-should-we-put-the-opening-brace-of-a-class-in-1tbs-style)
 <!-- STACKOVERFLOW:END -->
 
-#### Ask Different Activities:
+### Ask Different Activities
 
 <!-- https://apple.stackexchange.com/users/35986/mr-m%c3%adng/flair -->
 <a href="https://apple.stackexchange.com/users/35986/mr-m%c3%adng"><img src="https://apple.stackexchange.com/users/flair/35986.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Ask Different" title="Profile for Mr. M&#237;ng at Ask Different"></a>
