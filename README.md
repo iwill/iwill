@@ -59,10 +59,10 @@
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Mr. Míng for Using `awk` to print number of lines in file in the BEGIN section](https://stackoverflow.com/questions/29314555/using-awk-to-print-number-of-lines-in-file-in-the-begin-section/75145609#75145609)
-- [Answer by Mr. Míng for How to create a temporary directory?](https://stackoverflow.com/questions/4632028/how-to-create-a-temporary-directory/74558829#74558829)
-- [Answer by Mr. Míng for How can I create a temp file with a specific extension in bash?](https://stackoverflow.com/questions/2419754/how-can-i-create-a-temp-file-with-a-specific-extension-in-bash/74548824#74548824)
-- [Answer by Mr. Míng for Is it safe to use eval for a client-side JavaScript calculator?](https://stackoverflow.com/questions/72823355/is-it-safe-to-use-eval-for-a-client-side-javascript-calculator/73495791#73495791)
-- [Where should we put the opening brace of a class in 1TBS style? [closed]](https://stackoverflow.com/questions/73442910/where-should-we-put-the-opening-brace-of-a-class-in-1tbs-style)
+- [Answer by Mr. Míng for Enclosing folder shortcut not working from Desktop with Desktop backup enabled](https://apple.stackexchange.com/questions/452296/enclosing-folder-shortcut-not-working-from-desktop-with-desktop-backup-enabled/453035#453035)
+- [Answer by Mr. Míng for Cmd + Shift + T behaves differently in Safari](https://apple.stackexchange.com/questions/452487/cmd-shift-t-behaves-differently-in-safari/453034#453034)
+- [Answer by Mr. Míng for iTerm2 disable full screen keyboard shortcut](https://apple.stackexchange.com/questions/452519/iterm2-disable-full-screen-keyboard-shortcut/453033#453033)
+- [Answer by Mr. Míng for Increase space between two directories from “ls”](https://apple.stackexchange.com/questions/130978/increase-space-between-two-directories-from-ls/451948#451948)
 <!-- STACKOVERFLOW:END -->
 
 <!--
