@@ -40,7 +40,9 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="40" height="40" /></a>
 </div>
 
-### Blog Posts
+### Activities
+
+#### Blog Posts
 
 > i am iwill: [iwill.im](https://iwill.im/)
 
@@ -52,12 +54,7 @@
 - [Hello World](https://iwill.im/2015/08/28/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
-### StackOverflow Activities
-
-<!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
-<a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-Stack Overflow Activities:
+#### Stack Overflow Activities:
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Mr. Míng for Using `awk` to print number of lines in file in the BEGIN section](https://stackoverflow.com/questions/29314555/using-awk-to-print-number-of-lines-in-file-in-the-begin-section/75145609#75145609)
@@ -67,7 +64,7 @@ Stack Overflow Activities:
 - [Where should we put the opening brace of a class in 1TBS style? [closed]](https://stackoverflow.com/questions/73442910/where-should-we-put-the-opening-brace-of-a-class-in-1tbs-style)
 <!-- STACKOVERFLOW:END -->
 
-Ask Different Activities:
+#### Ask Different Activities:
 
 <!-- ASKDIFFERENT:START -->
 - [Answer by Mr. Míng for Enclosing folder shortcut not working from Desktop with Desktop backup enabled](https://apple.stackexchange.com/questions/452296/enclosing-folder-shortcut-not-working-from-desktop-with-desktop-backup-enabled/453035#453035)
@@ -76,6 +73,9 @@ Ask Different Activities:
 - [Answer by Mr. Míng for Increase space between two directories from “ls”](https://apple.stackexchange.com/questions/130978/increase-space-between-two-directories-from-ls/451948#451948)
 - [Answer by Mr. Míng for Karabiner forward delete how to revert to backslash](https://apple.stackexchange.com/questions/446387/karabiner-forward-delete-how-to-revert-to-backslash/449187#449187)
 <!-- ASKDIFFERENT:END -->
+
+<!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
+<a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **iwill/iwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
