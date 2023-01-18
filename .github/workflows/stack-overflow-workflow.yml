@@ -6,15 +6,28 @@ on:
 
 jobs:
   update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from StackOverflow
+    name: Update this repo's README with latest activity from Stack Overflow
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest stackOverflow data"
-          feed_names: "Stack Overflow, Ask Different"
-          feed_list: "https://stackoverflow.com/feeds/user/456536, https://apple.stackexchange.com/feeds/user/35986"
-          template: "$newline - $feedName: [$title]($url)"
-          max_post_count: 10
+          commit_message: "Updated readme with the latest Stack Overflow data"
+          feed_names: "Stack Overflow"
+          feed_list: "https://stackoverflow.com/feeds/user/456536"
+          # template: "$newline - $feedName: [$title]($url)"
+          max_post_count: 5
+  update-readme-with-ask-different:
+    name: Update this repo's README with latest activity from Ask Different
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "ASKDIFFERENT"
+          commit_message: "Updated readme with the latest Ask Different data"
+          feed_names: "Ask Different"
+          feed_list: "https://apple.stackexchange.com/feeds/user/35986"
+          # template: "$newline - $feedName: [$title]($url)"
+          max_post_count: 5
