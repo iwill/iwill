@@ -16,4 +16,5 @@ jobs:
           commit_message: "Updated readme with the latest stackOverflow data"
           feed_names: "Stack Overflow, Ask Different"
           feed_list: "https://stackoverflow.com/feeds/user/456536, https://apple.stackexchange.com/feeds/user/35986"
+          template: "$newline - $feedName: [$title]($url)"
           max_post_count: 10
