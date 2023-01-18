@@ -56,6 +56,9 @@
 
 #### Stack Overflow Activities:
 
+<!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
+<a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Stack Overflow" title="Profile for Mr. M&#237;ng at Stack Overflow"></a>
+
 <!-- STACKOVERFLOW:START -->
 - [Answer by Mr. Míng for Using `awk` to print number of lines in file in the BEGIN section](https://stackoverflow.com/questions/29314555/using-awk-to-print-number-of-lines-in-file-in-the-begin-section/75145609#75145609)
 - [Answer by Mr. Míng for How to create a temporary directory?](https://stackoverflow.com/questions/4632028/how-to-create-a-temporary-directory/74558829#74558829)
@@ -66,6 +69,9 @@
 
 #### Ask Different Activities:
 
+<!-- https://apple.stackexchange.com/users/35986/mr-m%c3%adng/flair -->
+<a href="https://apple.stackexchange.com/users/35986/mr-m%c3%adng"><img src="https://apple.stackexchange.com/users/flair/35986.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Ask Different" title="Profile for Mr. M&#237;ng at Ask Different"></a>
+
 <!-- ASKDIFFERENT:START -->
 - [Answer by Mr. Míng for Enclosing folder shortcut not working from Desktop with Desktop backup enabled](https://apple.stackexchange.com/questions/452296/enclosing-folder-shortcut-not-working-from-desktop-with-desktop-backup-enabled/453035#453035)
 - [Answer by Mr. Míng for Cmd + Shift + T behaves differently in Safari](https://apple.stackexchange.com/questions/452487/cmd-shift-t-behaves-differently-in-safari/453034#453034)
@@ -73,9 +79,6 @@
 - [Answer by Mr. Míng for Increase space between two directories from “ls”](https://apple.stackexchange.com/questions/130978/increase-space-between-two-directories-from-ls/451948#451948)
 - [Answer by Mr. Míng for Karabiner forward delete how to revert to backslash](https://apple.stackexchange.com/questions/446387/karabiner-forward-delete-how-to-revert-to-backslash/449187#449187)
 <!-- ASKDIFFERENT:END -->
-
-<!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
-<a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mr. M&#237;ng at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **iwill/iwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
