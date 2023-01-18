@@ -60,6 +60,11 @@
 Stack Overflow Activities:
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Mr. Míng for Using `awk` to print number of lines in file in the BEGIN section](https://stackoverflow.com/questions/29314555/using-awk-to-print-number-of-lines-in-file-in-the-begin-section/75145609#75145609)
+- [Answer by Mr. Míng for How to create a temporary directory?](https://stackoverflow.com/questions/4632028/how-to-create-a-temporary-directory/74558829#74558829)
+- [Answer by Mr. Míng for How can I create a temp file with a specific extension in bash?](https://stackoverflow.com/questions/2419754/how-can-i-create-a-temp-file-with-a-specific-extension-in-bash/74548824#74548824)
+- [Answer by Mr. Míng for Is it safe to use eval for a client-side JavaScript calculator?](https://stackoverflow.com/questions/72823355/is-it-safe-to-use-eval-for-a-client-side-javascript-calculator/73495791#73495791)
+- [Where should we put the opening brace of a class in 1TBS style? [closed]](https://stackoverflow.com/questions/73442910/where-should-we-put-the-opening-brace-of-a-class-in-1tbs-style)
 <!-- STACKOVERFLOW:END -->
 
 Ask Different Activities:
