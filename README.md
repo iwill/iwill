@@ -70,6 +70,11 @@ Stack Overflow Activities:
 Ask Different Activities:
 
 <!-- ASKDIFFERENT:START -->
+- [Answer by Mr. Míng for Enclosing folder shortcut not working from Desktop with Desktop backup enabled](https://apple.stackexchange.com/questions/452296/enclosing-folder-shortcut-not-working-from-desktop-with-desktop-backup-enabled/453035#453035)
+- [Answer by Mr. Míng for Cmd + Shift + T behaves differently in Safari](https://apple.stackexchange.com/questions/452487/cmd-shift-t-behaves-differently-in-safari/453034#453034)
+- [Answer by Mr. Míng for iTerm2 disable full screen keyboard shortcut](https://apple.stackexchange.com/questions/452519/iterm2-disable-full-screen-keyboard-shortcut/453033#453033)
+- [Answer by Mr. Míng for Increase space between two directories from “ls”](https://apple.stackexchange.com/questions/130978/increase-space-between-two-directories-from-ls/451948#451948)
+- [Answer by Mr. Míng for Karabiner forward delete how to revert to backslash](https://apple.stackexchange.com/questions/446387/karabiner-forward-delete-how-to-revert-to-backslash/449187#449187)
 <!-- ASKDIFFERENT:END -->
 
 <!--
