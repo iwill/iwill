@@ -1,4 +1,4 @@
-name: Latest StackOverflow activities
+name: Latest AskDifferent activities
 on:
   schedule: # Run workflow automatically
     - cron: '0 0 * * *' # Runs every day
