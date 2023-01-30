@@ -54,6 +54,8 @@
 
 ### Stack Overflow Activities
 
+<!-- Combined Profiles: https://stackexchange.com/users/flair/206938.png?theme=clean -->
+
 <!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
 <a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Stack Overflow" title="Profile for Mr. M&#237;ng at Stack Overflow"></a>
 
