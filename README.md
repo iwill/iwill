@@ -58,7 +58,16 @@
 <a href="https://stackexchange.com/users/206938/mr-m%C3%ADng"><img src="https://stackexchange.com/users/flair/206938.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Stack Exchange" title="Profile for Mr. M&#237;ng at Stack Exchange"></a>
 
 <!-- STACKEXCHANGE:START -->
-<!-- STACKEXCHANGE:END -->
+ - : [Answer by Mr. Míng for Lotsawater screensaver Mavericks problem](https://apple.stackexchange.com/questions/106715/lotsawater-screensaver-mavericks-problem/454161#454161)
+ - StackExchange: [Answer by Mr. Míng for Using `awk` to print number of lines in file in the BEGIN section](https://stackoverflow.com/questions/29314555/using-awk-to-print-number-of-lines-in-file-in-the-begin-section/75145609#75145609)
+ - : [Answer by Mr. Míng for Enclosing folder shortcut not working from Desktop with Desktop backup enabled](https://apple.stackexchange.com/questions/452296/enclosing-folder-shortcut-not-working-from-desktop-with-desktop-backup-enabled/453035#453035)
+ - : [Answer by Mr. Míng for Cmd + Shift + T behaves differently in Safari](https://apple.stackexchange.com/questions/452487/cmd-shift-t-behaves-differently-in-safari/453034#453034)
+ - : [Answer by Mr. Míng for iTerm2 disable full screen keyboard shortcut](https://apple.stackexchange.com/questions/452519/iterm2-disable-full-screen-keyboard-shortcut/453033#453033)
+ - : [Answer by Mr. Míng for Increase space between two directories from “ls”](https://apple.stackexchange.com/questions/130978/increase-space-between-two-directories-from-ls/451948#451948)
+ - StackExchange: [Answer by Mr. Míng for How to create a temporary directory?](https://stackoverflow.com/questions/4632028/how-to-create-a-temporary-directory/74558829#74558829)
+ - StackExchange: [Answer by Mr. Míng for How can I create a temp file with a specific extension in bash?](https://stackoverflow.com/questions/2419754/how-can-i-create-a-temp-file-with-a-specific-extension-in-bash/74548824#74548824)
+ - : [Answer by Mr. Míng for Karabiner forward delete how to revert to backslash](https://apple.stackexchange.com/questions/446387/karabiner-forward-delete-how-to-revert-to-backslash/449187#449187)
+ - : [Answer by Mr. Míng for Put iMac display to sleep using Magic Keyboard with Lock Key](https://apple.stackexchange.com/questions/445970/put-imac-display-to-sleep-using-magic-keyboard-with-lock-key/445986#445986)<!-- STACKEXCHANGE:END -->
 
 ### Stack Overflow Activities
 
