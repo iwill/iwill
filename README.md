@@ -52,9 +52,15 @@
 - [Hello World](https://iwill.im/2015/08/28/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
-### Stack Overflow Activities
+### Stack Exchange Activities
 
-<!-- Combined Profiles: https://stackexchange.com/users/flair/206938.png?theme=clean -->
+<!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
+<a href="https://stackexchange.com/users/206938/mr-m%C3%ADng"><img src="https://stackexchange.com/users/flair/206938.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Stack Overflow" title="Profile for Mr. M&#237;ng at Stack Overflow"></a>
+
+<!-- STACKEXCHANGE:START -->
+<!-- STACKEXCHANGE:END -->
+
+### Stack Overflow Activities
 
 <!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
 <a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Stack Overflow" title="Profile for Mr. M&#237;ng at Stack Overflow"></a>
