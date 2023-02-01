@@ -55,7 +55,7 @@
 ### Stack Exchange Activities
 
 <!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
-<a href="https://stackexchange.com/users/206938/mr-m%C3%ADng"><img src="https://stackexchange.com/users/flair/206938.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Stack Overflow" title="Profile for Mr. M&#237;ng at Stack Overflow"></a>
+<a href="https://stackexchange.com/users/206938/mr-m%C3%ADng"><img src="https://stackexchange.com/users/flair/206938.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Stack Exchange" title="Profile for Mr. M&#237;ng at Stack Exchange"></a>
 
 <!-- STACKEXCHANGE:START -->
 <!-- STACKEXCHANGE:END -->
