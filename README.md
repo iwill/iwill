@@ -16,7 +16,10 @@
 
 <div>
   <a href="#"><img src="https://img.shields.io/github/followers/iwill?label=Follow&style=social" alt="GitHub Followers" /></a>
-  <!-- reset: https://github.com/antonkomarev/github-profile-views-counter#how-to-reset-counter -->
+  <!--
+  reset: https://github.com/antonkomarev/github-profile-views-counter#how-to-reset-counter
+  Ÿ HŸPE: https://yhype.me/github/accounts/iwill
+  -->
   <a href="#"><img src="https://komarev.com/ghpvc/?username=iwill" alt="Profile Views" /></a>
 </div>
 
