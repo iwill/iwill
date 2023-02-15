@@ -8,7 +8,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: generate github-snake.svg
+      - name: generate snake-game-from-github-contribution-grid.svg
         uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake-game-from-github-contribution-grid.svg
 
 # https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
+# https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L24-L29
