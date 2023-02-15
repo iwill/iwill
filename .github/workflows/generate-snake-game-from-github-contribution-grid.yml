@@ -1,3 +1,14 @@
+name: Generate snake game from github contribution grid
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *' # Runs every day
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate github-snake.svg
+        uses: Platane/snk/svg-only@v2
+
 # https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
-# - uses: Platane/snk@v2
-- uses: Platane/snk/svg-only@v2
