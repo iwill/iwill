@@ -24,4 +24,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 # https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
-# https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L24-L29
+# https://github.com/Platane/Platane
