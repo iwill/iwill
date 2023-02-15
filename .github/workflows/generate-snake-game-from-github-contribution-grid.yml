@@ -13,7 +13,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            .github/dist/snake-game-from-github-contribution-grid.svg
+            .github/dist/github-snake.svg
+            .github/dist/github-snake-dark.svg?palette=github-dark
 
 # https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
 # https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L24-L29
