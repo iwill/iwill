@@ -1,0 +1,4 @@
+# https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
+- name: generate-snake-game-from-github-contribution-grid
+  # uses: Platane/snk@v2
+  uses: Platane/snk/svg-only@v2
