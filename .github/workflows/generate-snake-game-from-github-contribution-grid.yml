@@ -23,7 +23,9 @@ jobs:
             dist/github-snake-gold.svg?color_snake=gold
             dist/github-snake-cyan.svg?color_snake=cyan
             dist/github-snake-magenta.svg?color_snake=magenta
+            dist/github-snake-white.svg?color_snake=white
             dist/github-snake-black.svg?color_snake=black
+            dist/github-snake-transparent.svg?color_snake=transparent
       - name: push github-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
