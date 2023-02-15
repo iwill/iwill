@@ -14,6 +14,12 @@
 
 <a href="#">![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iwill&column=9&margin-w=10&margin-h=10&no-bg=true&no-frame=true)</a>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset=".github/dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset=".github/dist/github-snake-dark.svg">
+  <img alt="github-snake" src=".github/dist/github-snake.svg">
+</picture>
+
 <div>
   <a href="#"><img src="https://img.shields.io/github/followers/iwill?label=Follow&style=social" alt="GitHub Followers" /></a>
   <!--
