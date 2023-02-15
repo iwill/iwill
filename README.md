@@ -6,15 +6,6 @@
 - ⚡ Fun fact: My soul is funny, but not I.
 
 <p><!-- add `p` for margin-bottom -->
-  <a href="#"><!-- add `a` for inline-block -->
-    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=iwill&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true&theme=swift" valign="top" hspace="5px" vspace="5px" height="180px" /><!-- remove space before `/a` for link style --></a>
-  <a href="#">
-    <img alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwill&langs_count=10&layout=compact&theme=swift" valign="top" hspace="5px" vspace="5px" height="180px" /></a>
-</p>
-
-<a href="#">![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iwill&column=9&margin-w=10&margin-h=10&no-bg=true&no-frame=true)</a>
-
-<p><!-- add `p` for margin-bottom -->
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iwill/iwill/output/github-snake-black.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iwill/iwill/output/github-snake-dark.svg">
@@ -22,19 +13,19 @@
   </picture>
 </p>
 
-<div>
-  <a href="#"><img src="https://img.shields.io/github/followers/iwill?label=Follow&style=social" alt="GitHub Followers" /></a>
-  <!--
-  reset: https://github.com/antonkomarev/github-profile-views-counter#how-to-reset-counter
-  Ÿ HŸPE: https://yhype.me/github/accounts/iwill
-  -->
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=iwill" alt="Profile Views" /></a>
-</div>
+<p><!-- add `p` for margin-bottom -->
+  <a href="#"><!-- add `a` for inline-block -->
+    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=iwill&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true&theme=swift" valign="top" hspace="5px" vspace="5px" height="180px" /><!-- remove space before `/a` for link style --></a>
+  <a href="#">
+    <img alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwill&langs_count=10&layout=compact&theme=swift" valign="top" hspace="5px" vspace="5px" height="180px" /></a>
+</p>
 
-### Languages and Tools
+<p>
+    <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=iwill&column=9&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" /></a>
+</p>
 
 <!-- https://devicon.dev/ -->
-<div>
+<p>
   <!-- Languages -->
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" alt="ObjC" width="40" height="40" /></a>
@@ -52,7 +43,16 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="40" height="40" /></a>
-</div>
+</p>
+
+<p>
+  <a href="#"><img src="https://img.shields.io/github/followers/iwill?label=Follow&style=social" alt="GitHub Followers" /></a>
+  <!--
+  reset: https://github.com/antonkomarev/github-profile-views-counter#how-to-reset-counter
+  Ÿ HŸPE: https://yhype.me/github/accounts/iwill
+  -->
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=iwill" alt="Profile Views" /></a>
+</p>
 
 ### Blog Posts
 
