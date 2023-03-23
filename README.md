@@ -1,4 +1,4 @@
-### 👋🏿 Hi, I am Mr. Míng (iwill), an iOS & FE Developer
+### 👋🏿 Hi, I am Míng (iwill), an iOS & FE Developer
 
 - 🔭 I’m currently working on BTC - [BaijiaYun](https://www.baijiayun.com/) Technical Committee.
 - 🌱 I’m currently learning Swift.
@@ -72,7 +72,7 @@
 
 <!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
 <!-- COMMENT-OUT
-<a href="https://stackexchange.com/users/206938/mr-m%C3%ADng"><img src="https://stackexchange.com/users/flair/206938.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Stack Exchange" title="Profile for Mr. M&#237;ng at Stack Exchange"></a>
+<a href="https://stackexchange.com/users/206938/mr-m%C3%ADng"><img src="https://stackexchange.com/users/flair/206938.png?theme=clean" width="208" height="58" alt="Profile for M&#237;ng at Stack Exchange" title="Profile for M&#237;ng at Stack Exchange"></a>
 -->
 
 <!-- STACKEXCHANGE:START -->
@@ -81,7 +81,7 @@
 ### Stack Overflow Activities
 
 <!-- https://stackoverflow.com/users/456536/mr-m%c3%adng/flair -->
-<a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Stack Overflow" title="Profile for Mr. M&#237;ng at Stack Overflow"></a>
+<a href="https://stackoverflow.com/users/456536/mr-m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="Profile for M&#237;ng at Stack Overflow" title="Profile for M&#237;ng at Stack Overflow"></a>
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Mr. Míng for Issue returning result from a function](https://stackoverflow.com/questions/75431250/issue-returning-result-from-a-function/75431290#75431290)
@@ -94,7 +94,7 @@
 ### Ask Different Activities
 
 <!-- https://apple.stackexchange.com/users/35986/mr-m%c3%adng/flair -->
-<a href="https://apple.stackexchange.com/users/35986/mr-m%c3%adng"><img src="https://apple.stackexchange.com/users/flair/35986.png?theme=clean" width="208" height="58" alt="Profile for Mr. M&#237;ng at Ask Different" title="Profile for Mr. M&#237;ng at Ask Different"></a>
+<a href="https://apple.stackexchange.com/users/35986/mr-m%c3%adng"><img src="https://apple.stackexchange.com/users/flair/35986.png?theme=clean" width="208" height="58" alt="Profile for M&#237;ng at Ask Different" title="Profile for M&#237;ng at Ask Different"></a>
 
 <!-- ASKDIFFERENT:START -->
 - [Answer by Mr. Míng for Lotsawater screensaver Mavericks problem](https://apple.stackexchange.com/questions/106715/lotsawater-screensaver-mavericks-problem/454161#454161)
