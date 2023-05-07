@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Generate color for day of week
         id: color
-        run: echo "::set-output name=color::$(echo 'red green blue yellow cyan magenta black' | cut -d ' ' -f `date +%u`)"
+        run: echo "::set-output name=color::$(echo 'red green blue cyan magenta yellow black' | cut -d ' ' -f `date +%u`)"
       - name: generate github-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
