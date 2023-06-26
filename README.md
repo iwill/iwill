@@ -21,7 +21,7 @@
 </p>
 
 <p>
-    <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=iwill&column=9&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" /></a>
+    <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=iwill&column=9&row=1&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" /></a>
 </p>
 
 <!-- https://devicon.dev/ -->
