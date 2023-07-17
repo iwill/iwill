@@ -9,20 +9,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate color for day of week
-        id: random-color-generator
+        id: color
         # RGB + CMYK
-        # run: echo "color=$(echo 'red green blue cyan magenta yellow black' | cut -d ' ' -f `date +%u`)" >> "$GITHUB_STATE"
-        run: echo "SELECTED_COLOR=blue" >> "$GITHUB_OUTPUT"
+        run: echo "color=$(echo 'red green blue cyan magenta yellow black' | cut -d ' ' -f `date +%u`)" >> "$GITHUB_STATE"
       - name: generate github-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          # dist/github-snake.svg?color_snake=${{ steps.color.outputs.color }}
-          # dist/github-snake.svg?color_snake=${{ steps.random-color-generator.outputs.SELECTED_COLOR }}
           outputs: |
-            dist/github-snake.svg?color_snake=blue
+            dist/github-snake.svg?color_snake=${{ steps.color.outputs.color }}
       - name: push github-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: aelassas/snk/svg-only@main
         with:
           target_branch: output
           build_dir: dist
