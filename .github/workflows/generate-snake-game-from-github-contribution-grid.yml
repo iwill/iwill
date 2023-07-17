@@ -11,7 +11,7 @@ jobs:
       - name: Generate color for day of week
         id: color
         # RGB + CMYK
-        run: echo "{color}={$(echo 'red green blue cyan magenta yellow black' | cut -d ' ' -f `date +%u`)}" >> $GITHUB_STATE
+        run: echo "color=$(echo 'red green blue cyan magenta yellow black' | cut -d ' ' -f `date +%u`)" >> "$GITHUB_STATE"
       - name: generate github-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
