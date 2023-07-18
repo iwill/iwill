@@ -13,8 +13,8 @@ jobs:
         # RGB + CMYK
         run: echo "color=$(echo 'red green blue cyan magenta yellow black' | cut -d ' ' -f `date +%u`)" >> "$GITHUB_STATE"
       - name: generate github-snake.svg
-        # uses: Platane/snk/svg-only@v2
-        uses: aelassas/snk/svg-only@main
+        # uses: aelassas/snk/svg-only@main
+        uses: Platane/snk/svg-only@3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
