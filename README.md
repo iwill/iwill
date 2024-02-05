@@ -84,11 +84,11 @@
 <a href="https://stackoverflow.com/users/456536/m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="Profile for M&#237;ng at Stack Overflow" title="Profile for M&#237;ng at Stack Overflow"></a>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Míng for Using a custom image for a UITableViewCell&#39;s accessoryView and having it respond to UITableViewDelegate](https://stackoverflow.com/questions/869421/using-a-custom-image-for-a-uitableviewcells-accessoryview-and-having-it-respond/77936665#77936665)
 - [Answer by Míng for UITextView alignment, caret goes left](https://stackoverflow.com/questions/26524431/uitextview-alignment-caret-goes-left/77851824#77851824)
 - [Answer by Míng for Issue returning result from a function](https://stackoverflow.com/questions/75431250/issue-returning-result-from-a-function/75431290#75431290)
 - [Answer by Míng for Using `awk` to print number of lines in file in the BEGIN section](https://stackoverflow.com/questions/29314555/using-awk-to-print-number-of-lines-in-file-in-the-begin-section/75145609#75145609)
 - [Answer by Míng for How to create a temporary directory?](https://stackoverflow.com/questions/4632028/how-to-create-a-temporary-directory/74558829#74558829)
-- [Answer by Míng for How can I create a temp file with a specific extension in bash?](https://stackoverflow.com/questions/2419754/how-can-i-create-a-temp-file-with-a-specific-extension-in-bash/74548824#74548824)
 <!-- STACKOVERFLOW:END -->
 
 ### Ask Different Activities
