@@ -1,6 +1,6 @@
 ### 👋🏿 Hi, I am Míng (iwill), an iOS & FE Developer
 
-- 🔭 I’m currently working on BTC - [BaijiaYun](https://www.baijiayun.com/) Technical Committee.
+- 🔭 I’m currently working at W/AI.
 - 🌱 I’m currently learning Swift.
 - 💬 Ask me about Swift, ObjC, JavaScript and Keyboard Shortcuts in macOS.
 - ⚡ Fun fact: My soul is funny, but not I.
