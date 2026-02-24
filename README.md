@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at W/AI.
 - 🌱 I’m currently learning Swift.
 - 💬 Ask me about Swift, ObjC, JavaScript and Keyboard Shortcuts in macOS.
-- ⚡ Fun fact: My soul is funny, but not I.
+- ⚡ Fun fact: Coding, Cubing and Climbing, all start with C, and all need fingers.
 
 <p><!-- add `p` for margin-bottom -->
   <picture>
