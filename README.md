@@ -80,8 +80,8 @@
 
 ### Stack Overflow Activities
 
-<!-- https://stackoverflow.com/users/456536/m%c3%adng/flair -->
-<a href="https://stackoverflow.com/users/456536/m%c3%adng"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="Profile for M&#237;ng at Stack Overflow" title="Profile for M&#237;ng at Stack Overflow"></a>
+<!-- https://stackoverflow.com/users/ming/flair -->
+<a href="https://stackoverflow.com/users/ming"><img src="https://stackoverflow.com/users/flair/456536.png?theme=clean" width="208" height="58" alt="Profile for M&#237;ng at Stack Overflow" title="Profile for M&#237;ng at Stack Overflow"></a>
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Míng for Get high res icon image as UIImage in iOS 18](https://stackoverflow.com/questions/78694328/get-high-res-icon-image-as-uiimage-in-ios-18/78982590#78982590)
@@ -93,8 +93,8 @@
 
 ### Ask Different Activities
 
-<!-- https://apple.stackexchange.com/users/35986/m%c3%adng/flair -->
-<a href="https://apple.stackexchange.com/users/35986/m%c3%adng"><img src="https://apple.stackexchange.com/users/flair/35986.png?theme=clean" width="208" height="58" alt="Profile for M&#237;ng at Ask Different" title="Profile for M&#237;ng at Ask Different"></a>
+<!-- https://apple.stackexchange.com/users/ming/flair -->
+<a href="https://apple.stackexchange.com/users/ming"><img src="https://apple.stackexchange.com/users/flair/35986.png?theme=clean" width="208" height="58" alt="Profile for M&#237;ng at Ask Different" title="Profile for M&#237;ng at Ask Different"></a>
 
 <!-- ASKDIFFERENT:START -->
 - [Answer by Míng for Why can&#39;t I change my desktop background?](https://apple.stackexchange.com/questions/61771/why-cant-i-change-my-desktop-background/470805#470805)
